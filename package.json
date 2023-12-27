@@ -1,0 +1,8 @@
+{
+  "name": "bumper-car",
+  "scripts": {
+    "server:dev": "pnpm --filter server start:dev",
+    "web:dev": "pnpm --filter web dev"
+  },
+  "devDependencies": {}
+}
